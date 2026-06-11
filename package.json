@@ -56,7 +56,8 @@
     "react-native-worklets": "0.8.3",
     "tailwind-merge": "^3.4.0",
     "tailwindcss": "^3.4.17",
-    "tailwindcss-animate": "^1.0.7"
+    "tailwindcss-animate": "^1.0.7",
+    "typescript": "~6.0.3"
   },
   "devDependencies": {
     "baseline-browser-mapping": "^2.10.34",
